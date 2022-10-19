@@ -2,7 +2,7 @@
 //  Loops_ChallengeApp.swift
 //  Loops Challenge
 //
-//  Created by Tom Bredemeier on 10/12/21.
+//  Created by Margaret Hamilton on 10/12/21.
 //
 
 import SwiftUI
